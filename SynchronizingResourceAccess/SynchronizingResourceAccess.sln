@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34330.188
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SynchronizingResourceAccess", "SynchronizingResourceAccess.csproj", "{520DB6C8-2026-4F8C-8937-07993E66AD94}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{520DB6C8-2026-4F8C-8937-07993E66AD94}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{520DB6C8-2026-4F8C-8937-07993E66AD94}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{520DB6C8-2026-4F8C-8937-07993E66AD94}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{520DB6C8-2026-4F8C-8937-07993E66AD94}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {43B137E3-4FC9-42BB-B0C1-6DB54BA455D7}
+	EndGlobalSection
+EndGlobal
