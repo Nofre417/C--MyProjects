@@ -7,5 +7,8 @@ using WorkWithBenchmark.NET;
 
 WriteLine("_BENCHMARKING_");
 
+<<<<<<< HEAD
 //Run Benchmark.NET
+=======
+>>>>>>> ad4a059df522014ea298cab3f8ef5606a899ea75
 BenchmarkRunner.Run<StringBenchmarking>();
